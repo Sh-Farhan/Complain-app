@@ -26,7 +26,7 @@ const chartData = [
   { month: "March", Registered: 237, Solved: 120 },
   { month: "April", Registered: 73, Solved: 190 },
   { month: "May", Registered: 209, Solved: 130 },
-  { month: "June", Registered: 214, Solved: 140 },
+  { month: "June", Registered: 214, Solved: 130 },
 ]
 
 const chartConfig = {
