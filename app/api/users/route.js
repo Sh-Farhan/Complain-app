@@ -3,7 +3,7 @@ import { MongoClient } from "mongodb";
 import bodyParser from "body-parser";
 export const dynamic = 'force-static'
 
-const url =  process.env.MONGO_URI;
+const url =  process.env.MONGODB_URI;
 const client = new MongoClient(url)
 
 const dbName = 'dbComplains'
